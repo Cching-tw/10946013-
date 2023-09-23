@@ -1,0 +1,73 @@
+body{
+    font-family: Microsoft Jhenghei;
+    font-family: "Arial";
+}
+#logo{
+    margin-top: 20px;
+    height: 50px;
+}
+#list{
+    font-size: 16px;
+    line-height: 70px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+a{
+    margin-right: 10px;
+    color: black;
+    
+}
+a:hover{
+    color: red;
+    text-decoration:underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+}
+#main{
+    width: 580px;
+    height: 380px;
+}
+#a1{
+    margin-left: -13%;
+}
+#open{
+    width: 320px;
+    margin-bottom: 23px;
+}
+#notice{
+    width: 320px;
+}
+#text{
+    font-family: Microsoft Jhenghei;
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 26px;
+    padding-left: 30px;
+}
+#sub{
+    margin-top: 20px;
+    margin-left: -77px;
+}
+#spot{
+    margin-top: 20px;
+}
+#spot01{
+    height: 160px;
+    width: 290px;
+}
+#spot02{    
+    height: 160px;
+    width: 290px;
+    margin-left: -60px;
+}
+#spot03{
+    height: 160px;
+    width: 290px;
+    margin-left: -120px;
+}
+footer{
+    margin: 20px auto;
+    text-align: center;
+    font-size: 12px;
+    color: #999;
+}
